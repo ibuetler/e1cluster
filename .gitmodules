@@ -1,0 +1,6 @@
+[submodule "e1pub"]
+	path = e1pub
+	url = https://github.com/ibuetler/e1pub.git
+[submodule "gamerpc"]
+	path = gamerpc
+	url = https://github.com/ibuetler/gamerpc.git
